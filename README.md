@@ -28,5 +28,5 @@ Yêu cầu:
 ## 1.3. Return Book
 ![return book](https://github.com/user-attachments/assets/55361b99-8ffb-4d71-b72f-16333de2112a)
 
-## 1.4. Remove and Add Book.
+## 1.4. Add/Edit/Delete/List Books.
 ![add remove book](https://github.com/user-attachments/assets/dc9e6dd4-f2fa-48be-ba46-9770b6321f47)
