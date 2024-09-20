@@ -20,7 +20,7 @@ Yêu cầu:
 
 # 1. SƠ ĐỒ KHỐI YÊU CẦU.
 ## 1.1. Class Diagram.
-![Class](https://github.com/user-attachments/assets/08dfb640-7cd1-47b0-b36f-ddca2c416718)
+![Status Booleen](https://github.com/user-attachments/assets/83143beb-1f99-452c-bbab-688ef3e7b311)
 
 ## 1.2. Borrow Book.
 ![borrow book](https://github.com/user-attachments/assets/98834933-63fb-4c81-aaf2-4a7eec4e3c42)
